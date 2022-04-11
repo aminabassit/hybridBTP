@@ -1,11 +1,5 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""
-Created on Thu Jan  6 23:27:20 2022
-
-@author: Amina
-"""
-
 
 from utils import *
 from bloomFilter import *

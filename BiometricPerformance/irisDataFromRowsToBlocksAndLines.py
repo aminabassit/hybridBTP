@@ -1,10 +1,5 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""
-Created on Thu Jan 13 19:20:03 2022
-
-@author: Amina
-"""
 
 
 
