@@ -95,5 +95,5 @@ sudo make <experiment>
 ## Bibtex Citation
 
 ```
-This work has been accepted in the IET Biometrics journal. The proper citation will be provided later.
+Bassit,A., et al.: Hybrid biometric template protection: Resolving the agony of choice between Bloom filters and homomorphic encryption. IETBiome.1–15(2022). https://doi.org/10.1049/bme2.12075 
 ```
