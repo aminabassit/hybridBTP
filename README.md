@@ -2,7 +2,7 @@
 
 ## Description
 
-This repository contains the code for experimentally comparing Bloom filter-based against homomorphic encryption-based biometric template protection schemes (BTPs) for the case study of iris recognition (in the `BiometricPerformance` folder) and proposing the proof-of-concept implementation for the hybrid BTP scheme that combines both approaches (in the `HybridBTP` folder) .
+This repository contains the code for experimentally comparing Bloom filter-based against homomorphic encryption-based biometric template protection schemes (BTPs) for the case study of iris recognition (in the `BiometricPerformance` folder) and the proof-of-concept implementation for the hybrid BTP scheme that combines both approaches (in the `HybridBTP` folder) .
 There are two categories of BF-based BTPs: the 1st BF-based BTP [RBB13] applies a XOR with a key to the blocks before generating the BF, while the 2nd BF-based BTP [GRG+16] applies a row permutation to the blocks.
 
 Our proposed hybrid BTP scheme combines both approaches: the HE and the 1st BF in the user-specific key setting that requires the system to use a different key for each subject to generate its template.
