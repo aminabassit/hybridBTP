@@ -95,5 +95,14 @@ sudo make <experiment>
 ## Bibtex Citation
 
 ```
-Bassit,A., et al.: Hybrid biometric template protection: Resolving the agony of choice between Bloom filters and homomorphic encryption. IETBiome.1–15(2022). https://doi.org/10.1049/bme2.12075 
+@article{bassit2022hybrid,
+  title={Hybrid {B}iometric {T}emplate {P}rotection: {R}esolving the {A}gony of {C}hoice between {B}loom {F}ilters and {H}omomorphic {E}ncryption},
+  author={Bassit, Amina and Hahn, Florian and Veldhuis, Raymond and Peter, Andreas},
+  journal={IET biometrics},
+  volume={11},
+  number={5},
+  pages={430--444},
+  year={2022},
+  publisher={Wiley Online Library}
+}
 ```
